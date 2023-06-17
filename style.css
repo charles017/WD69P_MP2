@@ -1,5 +1,4 @@
-
-.menu{
+.menu {
   background-color: #f7f7f7;
   border-right: 5px solid rgb(226, 216, 216);
   height: 100vh;
@@ -8,4 +7,8 @@
   background-color: #d9e2ef;
   height: 700px;
   overflow-y: scroll;
+}
+
+.list-group-item {
+  background-color: #f7f7f7;
 }
